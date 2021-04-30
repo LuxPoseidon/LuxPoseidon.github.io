@@ -1,7 +1,7 @@
-baseURL: https://wrightcyber.net
+baseURL: https://wrightcyber.net/
 
 languageCode: en-us
-title: "Matthew's Portfolio"
+title: "Matthew Wright Portfolio"
 theme: "toha"
 
 # Manage languages
@@ -13,6 +13,9 @@ languages:
 
 # Control TOC depth
 markup:
+  goldmark:
+    renderer:
+      unsafe: true
   tableOfContents:
     startLevel: 2
     endLevel: 6
@@ -26,6 +29,9 @@ outputs:
   - RSS
   - JSON
 
+# Enable Google Analytics
+googleAnalytics: UA-122321624-2
+
 # Enable global emoji support
 enableEmoji: true
 
@@ -34,7 +40,15 @@ params:
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/LuxPoseidon/LuxPoseidon.github.io
   gitBranch: main
-
+  
+  #main page content
+  background: images/site/programming-background.png
+  
+  #logo:
+    #main: images/main-logo.png
+    #inverted: images/inverted-logo.png
+    #favicon: images/favicon.png
+  
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
 
@@ -44,4 +58,4 @@ params:
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
   newsletter:
-    enable: true
+    enable: false

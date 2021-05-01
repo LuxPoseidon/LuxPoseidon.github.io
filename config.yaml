@@ -39,7 +39,7 @@ params:
   gitBranch: gh-pages
   
   #main page content
-  background: images/site/programming-background.png
+  background: images/programming-background.png
   
   #logo:
     #main: images/main-logo.png

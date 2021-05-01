@@ -13,9 +13,6 @@ languages:
 
 # Control TOC depth
 markup:
-  goldmark:
-    renderer:
-      unsafe: true
   tableOfContents:
     startLevel: 2
     endLevel: 6

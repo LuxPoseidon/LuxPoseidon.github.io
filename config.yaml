@@ -36,7 +36,7 @@ enableEmoji: true
 params:
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/LuxPoseidon/LuxPoseidon.github.io
-  gitBranch: main
+  gitBranch: gh-pages
   
   #main page content
   background: images/site/programming-background.png

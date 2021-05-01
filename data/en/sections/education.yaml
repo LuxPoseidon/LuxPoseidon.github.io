@@ -10,9 +10,97 @@ section:
   # hideTitle: true
 
 degrees:
-- name: BA Computer Security - Information Assurance
+- name: BA Computer Security - Information Assurance | Minor in Business Administration
   icon: fa-graduation-cap
   timeframe: 2017-2021
   institution:
     name: Norwich University
     url: "https://www.norwich.edu"
+  extracurricularActivities:
+  - CyFER Fellow
+  - University Esports Team
+  takenCourses:
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Foundations of Computer Science & Information Assurance
+      achieved: 
+      outOf: 4
+    - name: Programming and Computing
+      achieved: 
+      outOf: 4
+    - name: Assembly Language & Reverse Engineering
+      achieved: 
+      outOf: 4
+    - name: Introduction to Data Structures
+      achieved: 
+      outOf: 4
+    - name: Database Management
+      achieved: 
+      outOf: 4
+    - name: Data Communications and Networks
+      achieved: 
+      outOf: 4
+    - name: Software Engineering
+      achieved: 
+      outOf: 4
+    - name: Computer Forensics I
+      achieved: 
+      outOf: 4
+    - name: Public Speaking
+      achieved: 
+      outOf: 4
+    - name: Cyberlaw and Cybercrime
+      achieved: 
+      outOf: 4
+    - name: Introduction to Information Assurance
+      achieved: 
+      outOf: 4
+    - name: Management of Information Assurance
+      achieved: 
+      outOf: 4
+    - name: Contemporary Issues in Information Assurance
+      achieved: 
+      outOf: 4
+    - name: Cyber Defence Practicum
+      achieved: 
+      outOf: 4
+    - name: Business and Economic Statistics I or Elementary Statistics
+      achieved: 
+      outOf: 4
+    - name: Operating Systems & Parallelism
+      achieved: 
+      outOf: 4
+    - name: Network Security
+      achieved: 
+      outOf: 4
+    - name: Management of Organizations
+      achieved: 
+      outOf: 4
+    - name: Organizational Behavior
+      achieved: 
+      outOf: 4
+    - name: GUI Programming
+      achieved: 
+      outOf: 4
+    - name: Principles of Accounting-Financial
+      achieved: 
+      outOf: 4
+    - name: Principles of Economics (Macro)
+      achieved: 
+      outOf: 4
+    - name: Principles of Economics (Micro)
+      achieved: 
+      outOf: 4
+    - name: Management of Organizations
+      achieved: 
+      outOf: 4
+    - name: Social Media Marketing
+      achieved: 
+      outOf: 4
+    - name: Intro to Number Theory & Cryptology
+      achieved: 
+      outOf: 4
+    - name: Cryptology
+      achieved: 
+      outOf: 4

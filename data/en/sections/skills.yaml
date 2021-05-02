@@ -17,7 +17,7 @@ skills:
 
 - name: Coding
   icon: ""
-  summary: "Proficient in writing code with C/C++, have dabbled with Javascript, always willing to pick up a new lnaguage when needed."
+  summary: "Proficient in writing code with C/C++, have dabbled with JavaScript, always willing to pick up a new language when needed."
   
 - name: Linux
   icon: ""
@@ -25,4 +25,4 @@ skills:
   
 - name: Vulnerability Assessments
   icon: ""
-  summary: "Capable of compileing and exicuting vulnerability assesments for information systems."
+  summary: "Capable of creating and executing vulnerability assessments for information systems."

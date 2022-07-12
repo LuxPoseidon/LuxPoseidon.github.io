@@ -4,17 +4,17 @@ nickname: "Matthew"
 image: "images/matthew.png"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Thanks for checking out my portfilio! I am"
 
 # give your contact information. they will be used in the footer
 contactInfo:
-  email: "matt2a.wright@gmail.com"
+  email: "matt2a.wright at gmail.com"
   phone: "+1(802)498-8274"
 
 # a summary of what you do
 summary:
-- I am a cybersecurity & IT professional
-- I do network vulnerability assesments
-- I investigate and analyze network traffic
-- I protect your digital information
-- I dabble in game development and other coding adventures
+- I am a CyberSecurity & IT Professional
+- I do Network Vulnerability Assesments
+- I do Regulatory Security Compliance
+- I Protect Your Digital Information
+- I dabble in coding from time to time
